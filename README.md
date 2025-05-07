@@ -1,8 +1,2 @@
-# React + Vite
+Bookmark Landing Page is a dynamic webpage built with React, designed as a promotional landing page for a bookmark management tool. It features a responsive design with mobile-friendly navigation, interactive sections for features, an accordion for FAQs, and is optimized for both mobile and desktop devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
